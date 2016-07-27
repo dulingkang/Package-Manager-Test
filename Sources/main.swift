@@ -1,3 +1,3 @@
-public func test(printValue: String) {
-    print(printValue)
+public func test() {
+    print("hello Test")
 }
